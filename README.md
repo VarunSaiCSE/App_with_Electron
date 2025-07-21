@@ -1,3 +1,3 @@
 # App_with_Electron
 Testing repo
-planner app (desktop ver)
+planner app (desktop ver).
